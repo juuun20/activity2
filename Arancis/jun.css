@@ -1,0 +1,59 @@
+body{
+  background-color: blanchedalmond;
+}
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  border-style: ridge;
+  border-color: black;
+  border-radius: 8px;
+}
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+*{ 
+  text-decoration: none;
+  
+}
+
+.al{
+
+  background-color:darkgray;
+  font-family: arial;
+  border-radius: ;
+}
+.me{
+  display: flex;
+  align-items: center;
+}
+.logo{
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+  margin-left: 100px;
+
+  
+
+}
+.s{
+  color: black;
+  font-weight: bold;
+  font-family: garamond;
+}
+
+li{
+  list-style: none;
+  display: inline-block;  
+}
+li a{
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  padding-right: 100px;
+  font-family: serif;
+
+
+  
